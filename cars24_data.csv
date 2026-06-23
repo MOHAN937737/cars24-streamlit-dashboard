@@ -1,0 +1,501 @@
+Brand,Car_Name,Price_Lakh,Fuel_Type,Transmission,Body_Type,Seating_Capacity,Mileage,Rating
+Maruti Suzuki,Ertiga,15.4,CNG,Automatic,MUV,5,26.7,4.9
+Kia,Innova,25.04,Diesel,Automatic,Hatchback,7,29.6,4.4
+Hyundai,Innova,21.97,Diesel,Automatic,Sedan,6,27.9,4.4
+Toyota,Creta,27.04,Hybrid,Automatic,Hatchback,7,19.8,4.8
+Hyundai,Seltos,20.35,Petrol,Manual,Sedan,5,20.7,4.3
+Maruti Suzuki,Scorpio,11.41,Diesel,Manual,Hatchback,6,12.8,4.8
+Mahindra,Seltos,17.75,CNG,Automatic,Hatchback,7,23.2,3.7
+Honda,Nexon,19.37,Petrol,Manual,Sedan,5,25.0,5.0
+Hyundai,Innova,23.11,CNG,Automatic,SUV,6,23.1,4.5
+Tata,City,16.23,CNG,Automatic,Hatchback,6,15.1,4.8
+Honda,Innova,9.73,Diesel,Manual,Hatchback,7,16.4,4.9
+Toyota,Scorpio,19.42,Petrol,Manual,Sedan,7,29.8,4.7
+Mahindra,Nexon,6.52,Hybrid,Manual,SUV,5,20.3,4.3
+Honda,Creta,25.73,Petrol,Automatic,Hatchback,7,22.3,4.9
+Mahindra,Innova,24.51,CNG,Manual,Hatchback,6,16.4,4.0
+Tata,Creta,21.43,Diesel,Automatic,Hatchback,7,29.0,3.7
+Maruti Suzuki,City,25.12,Hybrid,Automatic,MUV,7,25.4,4.2
+Honda,City,26.03,Petrol,Manual,Hatchback,6,24.2,4.0
+Hyundai,Innova,29.99,Hybrid,Manual,Hatchback,6,27.1,3.6
+Honda,Scorpio,24.63,Hybrid,Automatic,MUV,6,22.8,4.0
+Maruti Suzuki,Creta,26.0,Petrol,Manual,Sedan,7,12.2,3.6
+Maruti Suzuki,Ertiga,25.12,Diesel,Manual,Sedan,6,23.8,4.6
+Tata,Scorpio,21.53,CNG,Automatic,SUV,7,15.7,4.1
+Honda,Creta,27.91,Hybrid,Automatic,MUV,6,12.9,3.8
+Toyota,City,28.26,Diesel,Manual,Sedan,5,14.4,3.5
+Kia,Scorpio,21.73,CNG,Manual,Hatchback,5,12.1,4.4
+Honda,Nexon,26.64,Petrol,Automatic,SUV,7,19.0,4.7
+Tata,Scorpio,24.57,Hybrid,Manual,Hatchback,5,27.9,4.2
+Honda,Nexon,7.62,Hybrid,Manual,Sedan,6,20.1,4.6
+Tata,Creta,11.33,Petrol,Automatic,Hatchback,7,19.1,4.5
+Kia,Innova,10.02,Petrol,Manual,SUV,5,14.8,4.9
+Tata,Seltos,12.1,Diesel,Manual,Sedan,6,25.5,3.5
+Kia,Creta,7.75,Hybrid,Manual,MUV,5,19.0,4.1
+Mahindra,Ertiga,28.9,CNG,Automatic,Sedan,7,25.0,4.8
+Hyundai,Nexon,17.9,Petrol,Automatic,Hatchback,5,22.8,4.6
+Honda,City,14.92,Petrol,Manual,MUV,7,13.1,4.7
+Honda,Nexon,17.53,Diesel,Manual,Hatchback,7,17.9,3.6
+Honda,Ertiga,23.09,Hybrid,Manual,Hatchback,5,29.5,5.0
+Tata,Ertiga,18.23,CNG,Manual,Sedan,6,12.3,4.1
+Maruti Suzuki,Nexon,6.04,Hybrid,Automatic,MUV,7,25.1,4.5
+Toyota,Scorpio,8.1,Hybrid,Automatic,MUV,5,21.6,5.0
+Mahindra,Ertiga,28.02,Hybrid,Manual,Hatchback,5,27.1,4.4
+Honda,City,15.9,Diesel,Automatic,SUV,5,19.8,3.6
+Tata,Innova,11.14,CNG,Automatic,MUV,6,25.3,4.7
+Hyundai,Seltos,14.69,Petrol,Automatic,SUV,7,17.6,4.7
+Mahindra,Ertiga,24.74,Hybrid,Manual,SUV,7,14.2,4.9
+Kia,Innova,7.99,Hybrid,Automatic,Hatchback,5,18.8,4.1
+Toyota,Seltos,28.59,Diesel,Automatic,Sedan,7,14.7,4.3
+Toyota,Ertiga,11.76,Diesel,Automatic,Sedan,7,12.8,4.3
+Mahindra,City,23.77,Petrol,Automatic,Hatchback,7,28.3,4.7
+Maruti Suzuki,City,29.95,CNG,Automatic,Sedan,5,26.2,3.6
+Kia,Innova,25.59,CNG,Automatic,Hatchback,6,17.6,3.6
+Hyundai,Nexon,22.49,Diesel,Manual,SUV,5,21.3,4.3
+Tata,City,28.17,Hybrid,Manual,SUV,7,12.4,3.8
+Mahindra,Nexon,19.33,Petrol,Manual,Sedan,6,16.7,3.7
+Tata,Nexon,15.45,CNG,Manual,SUV,7,27.8,3.8
+Kia,Innova,14.99,Diesel,Manual,Hatchback,5,26.3,3.9
+Hyundai,Seltos,29.95,Petrol,Manual,Hatchback,5,26.9,3.9
+Mahindra,Creta,21.59,Petrol,Automatic,Hatchback,5,24.6,4.6
+Hyundai,Creta,12.2,Hybrid,Automatic,SUV,5,22.4,4.3
+Tata,Ertiga,7.63,Diesel,Manual,Sedan,7,22.8,5.0
+Kia,Creta,11.98,CNG,Automatic,MUV,6,27.1,5.0
+Hyundai,Scorpio,25.73,Diesel,Automatic,MUV,7,24.5,3.8
+Kia,City,19.0,Hybrid,Manual,MUV,5,14.1,5.0
+Toyota,Scorpio,29.09,Diesel,Manual,Sedan,7,21.0,4.5
+Hyundai,Innova,21.94,Petrol,Automatic,MUV,6,18.8,4.8
+Maruti Suzuki,Ertiga,28.22,Diesel,Manual,MUV,5,23.1,3.8
+Tata,Creta,12.78,Diesel,Automatic,SUV,6,21.7,4.7
+Mahindra,Creta,17.41,Petrol,Automatic,Hatchback,6,29.3,4.7
+Tata,Ertiga,12.64,CNG,Manual,Sedan,6,24.1,4.4
+Mahindra,Innova,22.48,Diesel,Automatic,MUV,6,13.4,4.6
+Toyota,Nexon,8.93,Petrol,Manual,Hatchback,5,17.5,3.6
+Tata,Innova,14.79,Diesel,Manual,Hatchback,7,29.6,4.3
+Maruti Suzuki,Ertiga,25.54,Hybrid,Automatic,Sedan,6,13.7,5.0
+Hyundai,Seltos,18.93,CNG,Automatic,SUV,5,16.7,4.9
+Mahindra,Innova,9.78,CNG,Manual,Hatchback,6,20.2,4.7
+Maruti Suzuki,Seltos,19.39,Petrol,Automatic,Hatchback,5,21.0,4.5
+Toyota,Creta,21.46,CNG,Manual,Hatchback,5,19.0,4.3
+Kia,City,23.54,CNG,Automatic,Sedan,7,12.4,4.4
+Hyundai,Scorpio,5.63,Diesel,Automatic,Sedan,5,20.7,4.3
+Hyundai,Scorpio,11.76,Hybrid,Automatic,Sedan,6,25.6,3.9
+Hyundai,Innova,20.14,Petrol,Manual,MUV,7,18.3,4.3
+Tata,Seltos,14.77,CNG,Manual,MUV,5,27.0,4.1
+Mahindra,Nexon,10.31,Diesel,Automatic,MUV,5,16.2,4.7
+Maruti Suzuki,City,23.45,Hybrid,Automatic,MUV,7,15.0,4.2
+Toyota,Seltos,11.78,Petrol,Automatic,Hatchback,7,19.4,4.4
+Honda,Seltos,6.67,Petrol,Automatic,MUV,7,18.4,4.6
+Hyundai,Creta,10.17,CNG,Manual,SUV,7,21.5,4.7
+Mahindra,Seltos,16.33,CNG,Manual,Sedan,5,20.0,4.3
+Maruti Suzuki,Nexon,11.69,Hybrid,Manual,Hatchback,7,29.3,4.5
+Hyundai,Seltos,25.34,Petrol,Manual,Hatchback,6,17.8,4.4
+Mahindra,Creta,11.41,Petrol,Automatic,SUV,7,20.9,4.6
+Tata,Innova,29.46,Petrol,Manual,MUV,6,28.8,4.7
+Maruti Suzuki,City,29.71,CNG,Manual,Hatchback,5,17.3,4.4
+Hyundai,Scorpio,23.83,Petrol,Manual,Hatchback,7,27.1,3.9
+Tata,Creta,13.83,Hybrid,Automatic,Sedan,6,21.9,3.6
+Kia,Scorpio,18.87,Diesel,Manual,Hatchback,7,13.0,4.2
+Kia,Seltos,22.22,Hybrid,Automatic,MUV,5,23.0,4.8
+Tata,Innova,7.59,Hybrid,Automatic,Hatchback,5,18.4,4.2
+Kia,Scorpio,9.81,CNG,Automatic,SUV,7,14.0,4.4
+Mahindra,Seltos,9.86,Petrol,Manual,MUV,5,18.4,4.9
+Honda,City,19.02,CNG,Manual,MUV,7,23.6,4.5
+Mahindra,Creta,25.73,Hybrid,Automatic,MUV,6,28.7,4.6
+Tata,Innova,28.94,Diesel,Manual,Hatchback,7,18.4,3.6
+Kia,Creta,17.77,Hybrid,Automatic,Hatchback,7,28.9,3.7
+Honda,City,25.44,CNG,Automatic,Sedan,6,21.0,4.7
+Mahindra,Innova,21.52,Petrol,Manual,Hatchback,5,19.3,4.1
+Mahindra,Scorpio,15.28,Diesel,Automatic,MUV,7,14.9,3.9
+Kia,Scorpio,17.24,CNG,Manual,Sedan,7,22.9,4.9
+Hyundai,Scorpio,28.32,Hybrid,Manual,Hatchback,5,22.6,4.4
+Hyundai,Nexon,13.31,Diesel,Manual,Sedan,5,26.9,3.6
+Kia,Creta,22.55,Petrol,Automatic,SUV,7,12.1,3.6
+Toyota,Nexon,25.35,Hybrid,Automatic,Hatchback,6,13.9,3.7
+Tata,Scorpio,15.09,Petrol,Automatic,Hatchback,5,19.1,4.0
+Toyota,Innova,21.17,Hybrid,Automatic,MUV,6,15.1,3.6
+Maruti Suzuki,Scorpio,22.17,Hybrid,Manual,MUV,6,22.1,4.4
+Kia,Creta,25.81,CNG,Automatic,Hatchback,7,25.3,4.9
+Kia,City,27.26,CNG,Manual,Sedan,5,14.7,3.7
+Tata,City,28.37,CNG,Manual,Hatchback,6,12.0,3.8
+Maruti Suzuki,Innova,16.56,Petrol,Automatic,Sedan,7,17.6,4.3
+Honda,Seltos,19.99,Hybrid,Manual,SUV,5,22.3,4.9
+Toyota,Seltos,5.94,Hybrid,Manual,MUV,6,13.9,3.5
+Tata,Seltos,7.4,CNG,Automatic,SUV,7,20.3,4.3
+Toyota,Ertiga,10.16,Petrol,Automatic,Sedan,6,14.7,3.8
+Mahindra,Innova,6.59,Petrol,Automatic,MUV,5,13.2,3.8
+Hyundai,Ertiga,22.18,Hybrid,Automatic,Hatchback,5,26.4,4.7
+Hyundai,Creta,14.05,Hybrid,Automatic,MUV,5,13.9,3.8
+Maruti Suzuki,Nexon,17.67,Hybrid,Manual,MUV,6,15.7,4.1
+Tata,Scorpio,13.39,Diesel,Manual,MUV,5,25.5,3.9
+Toyota,City,20.71,Petrol,Manual,MUV,6,13.9,4.9
+Toyota,Scorpio,21.13,CNG,Automatic,Sedan,5,29.6,3.9
+Mahindra,Seltos,10.13,Hybrid,Automatic,Sedan,7,23.9,3.5
+Toyota,Seltos,9.35,Diesel,Manual,MUV,7,28.5,4.5
+Mahindra,Innova,14.68,Diesel,Manual,MUV,6,15.8,4.8
+Mahindra,Scorpio,17.75,Hybrid,Automatic,SUV,5,21.2,4.7
+Toyota,Creta,18.32,Petrol,Automatic,SUV,7,14.2,4.2
+Mahindra,Scorpio,28.1,Diesel,Manual,SUV,5,22.3,4.5
+Maruti Suzuki,City,27.17,Petrol,Manual,SUV,6,27.8,3.5
+Mahindra,Seltos,26.41,Diesel,Manual,MUV,6,29.6,4.6
+Honda,Creta,19.07,Diesel,Manual,Sedan,6,25.8,4.6
+Kia,Nexon,29.39,CNG,Manual,Hatchback,7,21.6,4.4
+Kia,Creta,28.31,Diesel,Manual,MUV,6,27.7,4.6
+Tata,City,6.13,Diesel,Manual,Hatchback,5,17.4,3.8
+Maruti Suzuki,Seltos,14.51,CNG,Automatic,SUV,5,16.0,3.6
+Maruti Suzuki,Nexon,28.05,CNG,Automatic,MUV,6,22.5,4.0
+Mahindra,Scorpio,24.04,Petrol,Automatic,Hatchback,7,14.0,3.5
+Honda,Creta,16.84,Hybrid,Automatic,MUV,6,23.1,3.8
+Maruti Suzuki,Seltos,18.75,Diesel,Automatic,MUV,6,14.1,4.5
+Mahindra,Innova,8.78,Petrol,Manual,MUV,5,13.4,4.6
+Mahindra,Creta,26.07,Diesel,Manual,Sedan,5,29.9,3.8
+Hyundai,Scorpio,7.19,Hybrid,Manual,Sedan,6,17.5,5.0
+Honda,Nexon,22.01,CNG,Manual,Hatchback,6,27.6,3.9
+Hyundai,Innova,11.32,CNG,Manual,Sedan,6,20.0,4.1
+Honda,Ertiga,16.18,CNG,Manual,SUV,7,21.6,3.9
+Hyundai,Scorpio,21.5,Hybrid,Automatic,SUV,7,23.5,4.2
+Hyundai,Innova,15.52,Diesel,Automatic,Hatchback,6,20.3,3.9
+Honda,Nexon,21.97,Diesel,Manual,Sedan,7,25.7,3.7
+Tata,Ertiga,5.77,Hybrid,Manual,Hatchback,7,17.0,3.6
+Mahindra,Ertiga,20.1,Diesel,Manual,SUV,6,21.6,4.2
+Tata,Ertiga,22.6,CNG,Automatic,SUV,7,19.5,3.6
+Hyundai,City,19.64,Hybrid,Manual,Sedan,6,29.3,4.9
+Mahindra,City,20.99,Diesel,Automatic,Hatchback,5,28.6,3.9
+Hyundai,Scorpio,10.93,Hybrid,Manual,Hatchback,6,21.7,3.9
+Maruti Suzuki,Scorpio,11.36,Hybrid,Manual,SUV,5,19.1,4.8
+Kia,Innova,23.18,Diesel,Manual,SUV,6,25.2,3.5
+Hyundai,Scorpio,10.94,Petrol,Automatic,Hatchback,6,25.7,4.4
+Kia,City,11.38,Diesel,Manual,Hatchback,6,25.4,4.7
+Maruti Suzuki,Innova,29.26,Petrol,Automatic,Sedan,7,20.9,4.3
+Hyundai,Nexon,9.79,Hybrid,Automatic,Hatchback,5,27.9,4.7
+Kia,Nexon,28.02,CNG,Manual,SUV,7,22.9,3.6
+Hyundai,Nexon,18.36,Diesel,Automatic,SUV,7,17.5,4.0
+Hyundai,Seltos,27.04,CNG,Manual,Sedan,6,17.5,4.2
+Kia,Innova,15.01,CNG,Manual,MUV,6,26.5,3.8
+Honda,Creta,13.64,Hybrid,Manual,Sedan,5,22.3,3.8
+Toyota,Seltos,23.36,Diesel,Manual,MUV,7,13.1,3.5
+Mahindra,Creta,5.15,Hybrid,Automatic,Hatchback,5,20.7,4.4
+Tata,Nexon,19.28,Petrol,Automatic,SUV,6,22.2,4.1
+Maruti Suzuki,Ertiga,16.09,Diesel,Manual,Hatchback,5,14.7,4.1
+Maruti Suzuki,Innova,20.2,Petrol,Manual,SUV,6,22.6,4.1
+Mahindra,Ertiga,5.06,Diesel,Automatic,MUV,5,17.2,3.8
+Tata,Ertiga,28.18,CNG,Automatic,SUV,7,25.1,3.9
+Mahindra,Nexon,25.05,CNG,Automatic,Sedan,5,18.2,4.2
+Maruti Suzuki,Innova,9.16,Petrol,Automatic,Hatchback,6,16.2,3.6
+Honda,Ertiga,20.12,Hybrid,Manual,Hatchback,7,27.4,4.6
+Tata,Ertiga,10.85,CNG,Manual,SUV,6,17.2,4.8
+Toyota,Ertiga,9.59,CNG,Manual,Hatchback,5,14.4,4.3
+Tata,Nexon,15.49,Petrol,Manual,MUV,7,22.2,4.8
+Toyota,Ertiga,7.31,Diesel,Manual,Sedan,7,14.4,3.8
+Honda,Innova,14.4,CNG,Manual,SUV,6,18.1,4.5
+Kia,Innova,23.48,Petrol,Automatic,Hatchback,7,25.4,3.7
+Honda,Ertiga,16.9,Diesel,Automatic,Hatchback,5,18.1,4.9
+Tata,Innova,11.87,Petrol,Manual,Hatchback,7,28.6,4.5
+Toyota,Seltos,15.09,Petrol,Manual,Sedan,6,14.9,3.6
+Kia,Ertiga,8.43,CNG,Manual,SUV,7,15.1,4.4
+Tata,Creta,29.69,CNG,Automatic,Sedan,6,20.3,4.7
+Hyundai,Scorpio,16.64,Hybrid,Manual,Hatchback,5,25.0,4.4
+Honda,Ertiga,19.38,Petrol,Manual,MUV,7,21.8,3.5
+Kia,City,19.44,Hybrid,Manual,SUV,5,14.8,4.5
+Mahindra,Seltos,6.6,Petrol,Manual,Sedan,7,20.4,3.9
+Maruti Suzuki,Innova,12.39,Petrol,Manual,SUV,5,12.0,4.5
+Hyundai,Seltos,23.62,Petrol,Manual,Hatchback,7,12.2,3.6
+Mahindra,Ertiga,21.53,Petrol,Manual,MUV,6,29.0,3.8
+Tata,Scorpio,27.2,Diesel,Automatic,Sedan,7,27.6,4.9
+Kia,Nexon,20.95,Petrol,Automatic,MUV,6,29.4,4.4
+Mahindra,Seltos,9.83,Diesel,Manual,MUV,7,24.3,4.4
+Honda,Seltos,15.09,CNG,Manual,SUV,5,26.3,3.9
+Hyundai,Innova,23.39,Hybrid,Automatic,Sedan,7,15.6,4.4
+Tata,Nexon,17.32,Diesel,Manual,MUV,6,19.1,3.7
+Toyota,Ertiga,26.02,Petrol,Automatic,MUV,5,27.7,4.8
+Honda,Scorpio,11.84,CNG,Automatic,MUV,6,26.8,4.5
+Maruti Suzuki,Creta,24.9,Diesel,Automatic,MUV,5,20.4,4.0
+Mahindra,City,17.85,Petrol,Manual,Hatchback,5,18.4,4.7
+Kia,Ertiga,19.02,Hybrid,Automatic,SUV,6,20.5,4.7
+Hyundai,Scorpio,17.0,Hybrid,Automatic,Sedan,6,28.0,3.7
+Honda,Ertiga,28.33,CNG,Automatic,SUV,7,23.8,4.2
+Maruti Suzuki,Innova,14.75,Hybrid,Automatic,MUV,7,23.7,3.8
+Honda,Nexon,5.58,Petrol,Automatic,MUV,5,28.8,4.9
+Toyota,Nexon,16.5,Diesel,Manual,Hatchback,5,25.3,3.8
+Maruti Suzuki,Scorpio,24.8,Petrol,Manual,Sedan,7,24.3,3.7
+Honda,Seltos,16.34,Petrol,Automatic,Hatchback,5,17.2,4.9
+Kia,City,28.77,CNG,Automatic,Sedan,5,29.8,3.7
+Hyundai,Innova,5.63,Hybrid,Manual,Sedan,7,13.9,4.4
+Maruti Suzuki,Innova,12.19,Petrol,Automatic,Sedan,7,12.5,4.9
+Hyundai,Scorpio,16.11,Petrol,Manual,MUV,6,19.8,3.7
+Toyota,Innova,20.13,Diesel,Manual,Hatchback,5,25.4,4.4
+Honda,Scorpio,19.23,Diesel,Automatic,MUV,7,15.1,4.7
+Honda,Seltos,29.73,Hybrid,Automatic,MUV,7,25.9,4.2
+Tata,City,17.11,Petrol,Automatic,Sedan,6,16.9,4.3
+Toyota,Seltos,22.92,Diesel,Manual,Sedan,6,29.1,3.8
+Honda,Scorpio,27.03,Diesel,Automatic,Sedan,7,20.9,4.4
+Tata,Creta,25.26,Hybrid,Automatic,Sedan,6,12.9,4.2
+Hyundai,City,12.9,Hybrid,Automatic,Hatchback,6,29.3,4.3
+Kia,Creta,22.89,Hybrid,Automatic,SUV,7,24.8,4.6
+Kia,Innova,12.58,Petrol,Automatic,Sedan,5,12.5,4.2
+Kia,Seltos,11.31,Petrol,Manual,Hatchback,5,17.8,4.4
+Maruti Suzuki,Innova,29.28,Diesel,Manual,Sedan,7,26.6,4.4
+Mahindra,Nexon,14.04,CNG,Automatic,Sedan,7,25.7,4.9
+Hyundai,Creta,22.68,Hybrid,Automatic,SUV,6,21.3,4.3
+Hyundai,Innova,25.72,Diesel,Automatic,Hatchback,5,23.4,3.8
+Toyota,Creta,13.92,Diesel,Automatic,MUV,7,14.3,4.0
+Honda,Creta,12.09,CNG,Automatic,SUV,5,14.1,3.6
+Tata,Scorpio,14.62,Hybrid,Automatic,MUV,6,16.0,4.1
+Tata,Innova,11.45,Hybrid,Manual,SUV,5,20.2,3.6
+Hyundai,Seltos,16.84,Diesel,Manual,SUV,5,21.8,4.6
+Maruti Suzuki,City,21.94,Hybrid,Automatic,SUV,7,17.0,3.6
+Honda,City,19.2,Diesel,Automatic,MUV,5,20.6,4.4
+Mahindra,Nexon,26.98,Petrol,Manual,Sedan,7,20.5,4.5
+Mahindra,City,25.68,Diesel,Manual,SUV,5,26.1,3.8
+Tata,Ertiga,27.86,Hybrid,Automatic,Sedan,7,17.0,4.7
+Tata,Scorpio,26.39,Diesel,Automatic,Hatchback,6,23.8,3.5
+Hyundai,Ertiga,7.95,CNG,Manual,MUV,5,12.2,4.3
+Kia,Seltos,28.61,Hybrid,Automatic,SUV,6,15.5,4.6
+Tata,Nexon,21.13,Hybrid,Manual,MUV,7,12.2,4.0
+Mahindra,Scorpio,20.29,Petrol,Manual,SUV,5,29.3,4.6
+Mahindra,City,27.35,CNG,Automatic,Hatchback,5,28.5,4.4
+Honda,Creta,10.21,Petrol,Manual,SUV,7,14.3,3.5
+Kia,City,19.56,Petrol,Automatic,SUV,7,23.9,4.0
+Hyundai,Seltos,23.12,Hybrid,Manual,Sedan,7,27.1,4.8
+Hyundai,Scorpio,25.02,CNG,Manual,MUV,7,27.3,4.7
+Mahindra,Innova,26.07,Diesel,Automatic,MUV,5,17.8,4.8
+Mahindra,Scorpio,21.6,Diesel,Automatic,Hatchback,7,27.3,4.9
+Kia,Creta,21.23,Hybrid,Automatic,SUV,7,28.3,3.8
+Tata,City,11.97,Diesel,Manual,SUV,5,15.4,4.2
+Tata,Nexon,22.37,CNG,Automatic,Hatchback,6,23.7,3.9
+Maruti Suzuki,Creta,6.63,Hybrid,Automatic,Sedan,7,23.4,4.4
+Mahindra,Nexon,29.1,Petrol,Automatic,SUV,6,16.4,5.0
+Toyota,City,12.84,Diesel,Automatic,MUV,5,14.1,3.6
+Tata,Ertiga,29.45,Diesel,Manual,MUV,5,20.5,3.6
+Tata,City,6.22,Hybrid,Manual,SUV,5,27.5,3.6
+Hyundai,Ertiga,10.86,Diesel,Manual,Hatchback,6,19.5,4.8
+Maruti Suzuki,Innova,25.44,CNG,Automatic,Sedan,6,16.4,4.9
+Kia,Nexon,21.32,Diesel,Manual,Hatchback,5,26.3,4.3
+Maruti Suzuki,Ertiga,18.03,Diesel,Manual,Hatchback,6,12.7,4.0
+Tata,City,26.76,Petrol,Automatic,Sedan,7,18.2,5.0
+Maruti Suzuki,Ertiga,24.4,Hybrid,Automatic,SUV,7,18.7,4.2
+Mahindra,Innova,16.73,Petrol,Automatic,Hatchback,5,17.5,4.0
+Tata,Creta,26.87,Hybrid,Automatic,Sedan,5,12.0,4.7
+Hyundai,Ertiga,7.08,Diesel,Manual,MUV,7,17.3,3.9
+Tata,City,20.38,CNG,Automatic,Sedan,7,26.8,4.5
+Hyundai,Innova,15.27,Petrol,Manual,SUV,7,13.3,5.0
+Mahindra,Ertiga,6.87,CNG,Manual,Sedan,6,28.1,3.6
+Mahindra,Nexon,17.5,CNG,Manual,Hatchback,6,16.9,4.5
+Honda,Seltos,24.1,Petrol,Manual,Hatchback,7,29.3,4.0
+Hyundai,City,6.96,Hybrid,Manual,Hatchback,5,23.7,4.2
+Toyota,Scorpio,18.94,Hybrid,Manual,Hatchback,7,12.6,3.6
+Toyota,Scorpio,5.03,Petrol,Automatic,SUV,7,13.3,4.1
+Maruti Suzuki,Ertiga,12.47,Petrol,Automatic,Hatchback,7,13.4,3.7
+Toyota,Creta,27.87,Petrol,Automatic,MUV,7,22.3,4.3
+Honda,Ertiga,18.55,Hybrid,Manual,Hatchback,7,27.1,4.6
+Mahindra,Scorpio,11.64,Petrol,Manual,SUV,6,19.0,4.7
+Maruti Suzuki,Scorpio,6.15,CNG,Automatic,MUV,6,13.2,3.9
+Kia,Ertiga,8.12,Hybrid,Automatic,Hatchback,6,18.7,4.3
+Hyundai,Seltos,24.12,CNG,Automatic,Sedan,5,17.7,4.2
+Tata,City,15.86,Diesel,Automatic,Hatchback,5,28.8,5.0
+Kia,Seltos,26.94,Hybrid,Automatic,MUV,5,22.9,3.6
+Tata,Scorpio,7.47,CNG,Automatic,MUV,6,29.4,4.6
+Tata,City,17.65,Diesel,Automatic,Sedan,7,21.5,4.7
+Maruti Suzuki,Seltos,28.75,Petrol,Manual,Sedan,5,20.2,4.0
+Maruti Suzuki,Ertiga,5.24,Hybrid,Automatic,SUV,6,27.5,4.8
+Kia,Seltos,17.44,Petrol,Manual,MUV,6,27.2,3.8
+Tata,Creta,14.64,Diesel,Automatic,SUV,6,18.1,3.7
+Toyota,Innova,10.94,CNG,Manual,MUV,6,13.7,3.7
+Toyota,Seltos,26.74,CNG,Manual,MUV,7,22.9,4.1
+Maruti Suzuki,City,7.32,CNG,Automatic,SUV,6,14.4,3.7
+Tata,Scorpio,5.87,Hybrid,Automatic,MUV,5,24.7,3.6
+Maruti Suzuki,Scorpio,8.08,CNG,Automatic,Hatchback,6,15.2,4.0
+Kia,Scorpio,23.79,CNG,Automatic,Sedan,6,22.8,3.8
+Tata,Seltos,10.98,CNG,Automatic,Sedan,6,29.5,5.0
+Mahindra,City,9.63,Diesel,Manual,Hatchback,5,18.4,4.6
+Honda,Scorpio,14.42,Petrol,Manual,Hatchback,7,16.9,4.7
+Honda,Scorpio,29.69,Diesel,Manual,SUV,7,22.5,4.1
+Maruti Suzuki,Ertiga,10.21,CNG,Automatic,SUV,5,25.5,3.6
+Mahindra,Ertiga,14.66,Diesel,Automatic,MUV,5,20.2,3.6
+Hyundai,Scorpio,15.66,CNG,Manual,Hatchback,5,20.3,4.9
+Toyota,Ertiga,27.17,Diesel,Manual,Sedan,6,14.9,4.0
+Hyundai,Seltos,15.58,Diesel,Manual,Sedan,7,21.1,4.1
+Toyota,Innova,27.46,Hybrid,Automatic,Hatchback,5,18.7,5.0
+Maruti Suzuki,Nexon,29.59,CNG,Manual,Hatchback,7,27.5,3.7
+Kia,Ertiga,11.5,Petrol,Automatic,MUV,6,28.9,4.5
+Honda,City,12.25,Diesel,Manual,MUV,5,16.0,4.7
+Mahindra,Creta,21.5,Petrol,Automatic,Hatchback,6,15.2,3.6
+Tata,Nexon,21.06,Petrol,Manual,Sedan,7,20.5,4.7
+Honda,Nexon,25.7,CNG,Automatic,Sedan,7,26.7,3.5
+Toyota,Innova,20.01,Petrol,Automatic,Hatchback,6,15.8,4.6
+Toyota,Ertiga,7.73,Diesel,Manual,MUV,7,27.6,3.8
+Mahindra,Seltos,7.83,Hybrid,Manual,MUV,5,27.8,4.3
+Hyundai,Innova,22.38,Petrol,Manual,Hatchback,5,16.1,4.9
+Hyundai,Nexon,11.46,Diesel,Automatic,Sedan,5,15.7,4.6
+Kia,Seltos,25.1,Petrol,Automatic,Hatchback,6,19.4,4.3
+Mahindra,Nexon,25.74,Petrol,Manual,Sedan,5,25.3,4.2
+Kia,Creta,15.54,Diesel,Automatic,SUV,5,21.6,4.2
+Honda,Ertiga,17.87,Hybrid,Manual,SUV,5,25.4,4.1
+Maruti Suzuki,Ertiga,6.15,CNG,Manual,Sedan,7,16.7,4.0
+Toyota,Innova,8.05,CNG,Manual,Sedan,7,27.9,5.0
+Hyundai,City,20.83,CNG,Manual,Hatchback,7,26.7,3.5
+Hyundai,Innova,19.77,Hybrid,Automatic,MUV,5,16.9,4.7
+Tata,Scorpio,11.37,Hybrid,Automatic,SUV,7,15.3,4.6
+Kia,Seltos,15.16,Hybrid,Manual,MUV,7,18.1,4.0
+Mahindra,City,21.23,Hybrid,Manual,MUV,5,24.4,3.7
+Toyota,Ertiga,7.07,Hybrid,Automatic,MUV,5,14.5,5.0
+Maruti Suzuki,Scorpio,29.76,CNG,Manual,MUV,6,22.9,4.9
+Kia,Seltos,20.43,CNG,Manual,MUV,5,12.8,4.3
+Maruti Suzuki,Innova,16.07,Petrol,Automatic,Sedan,5,27.2,4.7
+Tata,Nexon,7.37,Hybrid,Automatic,Hatchback,7,13.8,4.6
+Hyundai,Seltos,14.58,Petrol,Automatic,SUV,5,28.9,4.4
+Tata,Ertiga,5.51,Hybrid,Automatic,Sedan,7,19.1,4.4
+Maruti Suzuki,Ertiga,25.84,CNG,Automatic,MUV,5,20.9,4.9
+Maruti Suzuki,Ertiga,14.68,Hybrid,Automatic,MUV,5,21.1,4.9
+Kia,City,24.53,Petrol,Automatic,Sedan,5,12.7,3.7
+Hyundai,Seltos,18.69,CNG,Automatic,Sedan,6,17.7,4.4
+Toyota,Seltos,28.31,Diesel,Manual,MUV,5,25.5,3.5
+Honda,Seltos,18.48,Hybrid,Automatic,Hatchback,6,23.8,4.8
+Toyota,Ertiga,20.09,CNG,Manual,Hatchback,6,23.9,4.1
+Kia,Ertiga,12.86,Diesel,Automatic,MUV,7,26.8,3.6
+Maruti Suzuki,City,23.13,Hybrid,Manual,Hatchback,7,26.0,4.9
+Mahindra,City,13.34,CNG,Manual,Hatchback,6,23.2,4.8
+Maruti Suzuki,Nexon,29.72,Hybrid,Manual,Sedan,7,16.3,3.9
+Tata,Innova,13.91,Hybrid,Automatic,SUV,6,26.2,4.5
+Honda,Nexon,28.23,CNG,Manual,Sedan,7,14.2,3.7
+Honda,Innova,19.26,Diesel,Manual,SUV,6,28.4,4.9
+Honda,Seltos,8.68,Petrol,Automatic,Hatchback,5,17.4,3.7
+Honda,Nexon,15.0,CNG,Automatic,SUV,6,18.0,3.6
+Toyota,Nexon,20.93,Diesel,Manual,Sedan,6,22.0,3.8
+Kia,Scorpio,25.14,Petrol,Manual,Sedan,6,26.7,4.4
+Toyota,City,7.4,CNG,Automatic,SUV,6,20.8,3.9
+Toyota,City,26.6,Diesel,Manual,Hatchback,7,14.4,3.7
+Maruti Suzuki,Scorpio,20.69,Hybrid,Manual,Hatchback,7,13.8,4.5
+Hyundai,Creta,28.68,Petrol,Manual,Hatchback,7,22.3,4.0
+Honda,Ertiga,24.47,Hybrid,Automatic,SUV,6,24.3,3.7
+Honda,Scorpio,27.03,Diesel,Automatic,SUV,5,25.3,4.5
+Maruti Suzuki,Nexon,15.54,Diesel,Manual,Hatchback,5,27.0,3.8
+Toyota,Innova,14.71,Diesel,Automatic,MUV,7,24.5,4.3
+Mahindra,Nexon,28.56,Petrol,Manual,Hatchback,6,29.4,5.0
+Toyota,Ertiga,25.23,Petrol,Automatic,SUV,6,22.1,3.9
+Toyota,Seltos,5.36,Petrol,Automatic,Hatchback,7,12.2,4.0
+Mahindra,Innova,13.93,Petrol,Manual,Hatchback,7,16.2,4.7
+Mahindra,Creta,8.73,CNG,Manual,Hatchback,7,23.5,4.2
+Hyundai,City,20.42,CNG,Automatic,SUV,6,14.9,3.6
+Tata,Seltos,21.24,Petrol,Automatic,Sedan,7,19.5,4.3
+Hyundai,City,12.3,CNG,Manual,Sedan,6,19.1,4.8
+Maruti Suzuki,Nexon,7.19,Diesel,Automatic,Sedan,5,25.5,3.9
+Toyota,Scorpio,23.3,Petrol,Manual,Sedan,7,25.2,4.5
+Toyota,Nexon,5.67,CNG,Manual,Sedan,7,19.8,3.8
+Maruti Suzuki,Innova,8.77,Petrol,Manual,Hatchback,5,22.7,4.6
+Mahindra,City,9.67,CNG,Manual,Hatchback,5,25.4,3.7
+Hyundai,Seltos,23.58,Petrol,Manual,MUV,7,22.3,4.3
+Maruti Suzuki,Innova,13.42,CNG,Manual,Hatchback,7,29.8,4.8
+Honda,Creta,6.77,Hybrid,Manual,Sedan,5,24.4,3.9
+Kia,Seltos,5.1,Petrol,Automatic,MUV,6,22.8,5.0
+Toyota,Innova,23.78,Hybrid,Automatic,MUV,6,17.4,3.9
+Tata,Nexon,12.14,Diesel,Manual,SUV,5,15.2,4.4
+Hyundai,Seltos,8.88,Hybrid,Manual,Sedan,6,19.7,4.8
+Kia,Innova,20.35,Petrol,Automatic,Hatchback,6,19.4,3.7
+Tata,Scorpio,17.48,Hybrid,Manual,Sedan,6,16.4,4.1
+Honda,Ertiga,8.76,CNG,Automatic,Sedan,6,21.8,4.3
+Tata,Innova,22.5,Diesel,Automatic,MUV,5,29.9,4.3
+Toyota,Creta,15.35,Diesel,Manual,SUV,5,20.1,4.2
+Hyundai,Scorpio,8.92,Hybrid,Manual,Hatchback,6,21.4,4.5
+Tata,Scorpio,12.26,CNG,Manual,MUV,7,27.8,4.6
+Tata,Scorpio,6.68,Diesel,Automatic,Hatchback,7,27.5,4.4
+Tata,Scorpio,11.23,CNG,Manual,Hatchback,6,13.0,3.8
+Honda,Ertiga,6.59,Petrol,Manual,Sedan,6,26.5,3.7
+Kia,Scorpio,9.79,Diesel,Manual,Sedan,5,19.5,4.2
+Honda,Nexon,22.04,Petrol,Automatic,MUV,7,15.3,3.6
+Mahindra,Ertiga,20.51,Petrol,Automatic,Hatchback,6,29.1,4.6
+Kia,Seltos,28.93,Diesel,Manual,SUV,7,28.9,4.3
+Hyundai,Scorpio,11.48,Petrol,Manual,MUV,5,20.0,4.5
+Maruti Suzuki,Seltos,11.33,Hybrid,Manual,SUV,5,29.5,4.2
+Maruti Suzuki,Ertiga,28.8,Hybrid,Automatic,SUV,6,27.5,4.4
+Tata,Ertiga,29.23,CNG,Manual,Hatchback,5,22.5,4.5
+Hyundai,Scorpio,29.92,CNG,Manual,SUV,7,29.3,4.6
+Kia,Nexon,11.14,Petrol,Manual,MUV,6,28.7,4.9
+Honda,Creta,11.23,Hybrid,Manual,Hatchback,6,24.0,5.0
+Mahindra,Innova,7.95,Petrol,Automatic,MUV,7,25.8,4.1
+Kia,Creta,7.35,Diesel,Manual,MUV,5,28.8,4.3
+Maruti Suzuki,Nexon,26.55,CNG,Automatic,Hatchback,7,19.6,4.5
+Kia,Ertiga,13.01,CNG,Manual,Sedan,6,12.6,4.2
+Toyota,Nexon,23.78,Diesel,Automatic,MUV,6,29.7,3.8
+Toyota,Ertiga,20.18,Diesel,Manual,MUV,6,29.4,3.8
+Hyundai,Scorpio,15.17,Hybrid,Manual,Hatchback,5,20.8,4.0
+Mahindra,Innova,29.67,CNG,Manual,Sedan,7,22.1,3.7
+Kia,Innova,12.93,Petrol,Automatic,Hatchback,6,14.5,4.9
+Mahindra,Scorpio,28.34,Petrol,Automatic,Hatchback,5,14.4,3.8
+Honda,Creta,6.79,CNG,Automatic,Sedan,7,22.3,4.6
+Hyundai,Nexon,28.4,Diesel,Automatic,Hatchback,5,17.4,5.0
+Hyundai,Scorpio,16.65,Diesel,Manual,Hatchback,7,19.9,4.3
+Honda,Ertiga,29.75,Diesel,Automatic,Sedan,6,17.1,4.8
+Maruti Suzuki,Creta,29.02,Diesel,Manual,Hatchback,7,23.8,4.5
+Tata,Innova,19.03,CNG,Manual,Hatchback,6,27.6,3.7
+Honda,Nexon,8.84,Petrol,Manual,SUV,5,27.3,4.1
+Hyundai,Seltos,15.11,CNG,Manual,Sedan,7,28.2,4.6
+Maruti Suzuki,Seltos,16.73,Hybrid,Manual,MUV,5,26.3,4.4
+Toyota,Creta,15.36,CNG,Automatic,Sedan,5,17.5,4.3
+Kia,Ertiga,15.77,Diesel,Manual,Hatchback,5,22.5,3.8
+Hyundai,Innova,21.55,Hybrid,Automatic,Hatchback,6,24.3,4.3
+Hyundai,Nexon,13.64,CNG,Manual,MUV,6,16.7,3.6
+Kia,Creta,8.96,CNG,Automatic,MUV,6,17.2,4.9
+Toyota,City,10.53,Diesel,Automatic,MUV,6,29.8,3.6
+Maruti Suzuki,Nexon,12.01,CNG,Automatic,Sedan,7,19.0,3.8
+Tata,Ertiga,25.19,Diesel,Manual,Hatchback,6,18.1,4.2
+Honda,Nexon,21.47,CNG,Manual,SUV,7,20.2,3.7
+Honda,Scorpio,14.13,Petrol,Automatic,Sedan,6,14.8,4.6
+Hyundai,Seltos,25.84,Hybrid,Automatic,Sedan,6,28.2,3.8
+Toyota,Seltos,7.16,Petrol,Automatic,Sedan,6,24.7,4.7
+Honda,Seltos,15.95,Diesel,Manual,SUV,5,17.9,4.0
+Maruti Suzuki,Seltos,18.74,CNG,Manual,MUV,7,13.5,5.0
+Hyundai,Creta,16.59,Diesel,Manual,Hatchback,5,21.5,4.2
+Honda,Creta,23.64,Diesel,Automatic,SUV,6,15.0,4.8
+Maruti Suzuki,City,27.14,Petrol,Manual,MUV,7,15.7,4.3
+Toyota,Scorpio,12.27,Diesel,Manual,MUV,6,17.5,4.4
+Hyundai,Ertiga,12.55,Diesel,Manual,SUV,5,18.0,3.8
+Hyundai,Scorpio,16.13,CNG,Automatic,MUV,6,13.5,4.6
+Tata,Nexon,19.3,Hybrid,Automatic,SUV,7,20.1,4.2
+Toyota,Nexon,29.53,Diesel,Automatic,SUV,7,18.7,3.6
+Mahindra,Innova,17.72,Hybrid,Manual,MUV,5,22.9,4.4
+Kia,City,27.57,Petrol,Automatic,Sedan,7,29.8,3.5
+Maruti Suzuki,Nexon,6.51,CNG,Automatic,Sedan,6,21.6,4.9
+Mahindra,Scorpio,15.93,Petrol,Automatic,MUV,7,23.5,3.7
+Maruti Suzuki,Creta,21.2,Diesel,Automatic,Hatchback,5,20.0,4.9
+Kia,Nexon,6.83,Petrol,Manual,Hatchback,7,19.0,3.5
+Toyota,Seltos,5.49,CNG,Manual,Sedan,6,18.6,3.7
+Mahindra,City,13.81,CNG,Automatic,Hatchback,6,19.8,4.0
+Mahindra,City,27.75,Diesel,Manual,MUV,7,29.0,4.9
+Hyundai,City,27.37,Petrol,Manual,MUV,6,17.4,4.2
+Toyota,Innova,26.56,CNG,Automatic,SUV,6,25.7,4.1
+Honda,Seltos,22.23,CNG,Manual,Sedan,7,16.8,3.7
+Tata,Nexon,24.81,Diesel,Manual,Sedan,5,28.6,3.5
+Maruti Suzuki,Nexon,25.87,Petrol,Manual,SUV,6,23.0,3.7
+Maruti Suzuki,Ertiga,11.17,Diesel,Automatic,Hatchback,5,13.5,4.9
+Kia,Nexon,9.6,Diesel,Manual,MUV,5,27.1,3.8
+Kia,City,22.8,CNG,Manual,MUV,6,23.3,5.0
+Mahindra,Ertiga,26.79,Hybrid,Automatic,MUV,7,15.3,4.2
+Toyota,City,28.0,CNG,Manual,Hatchback,6,18.6,5.0
+Hyundai,Creta,10.55,Diesel,Automatic,Sedan,5,25.5,4.3
+Honda,Creta,10.72,Petrol,Automatic,Hatchback,5,16.4,4.3
+Kia,Innova,21.51,Petrol,Manual,MUV,7,25.7,3.7
+Tata,Creta,29.95,Diesel,Manual,Hatchback,6,12.0,4.6
+Maruti Suzuki,Ertiga,5.82,Diesel,Manual,Hatchback,6,25.5,4.7
+Hyundai,Innova,28.77,Diesel,Automatic,Sedan,6,20.9,4.8
+Honda,City,21.16,CNG,Automatic,SUV,5,29.9,4.5
+Honda,City,28.33,Petrol,Automatic,Sedan,6,20.9,3.7
+Hyundai,Innova,17.79,CNG,Manual,SUV,7,16.8,4.0
+Hyundai,Seltos,26.84,Hybrid,Automatic,MUV,6,25.2,3.7
+Hyundai,Innova,26.21,Petrol,Manual,Sedan,5,29.3,4.8
+Toyota,Ertiga,5.87,Petrol,Automatic,SUV,5,28.2,4.4
+Hyundai,Scorpio,5.16,Diesel,Manual,Sedan,7,27.7,3.9
+Honda,Innova,18.11,Diesel,Automatic,MUV,6,28.2,3.9
+Mahindra,Ertiga,9.31,Hybrid,Automatic,Sedan,7,21.8,3.6
+Toyota,Innova,19.41,Hybrid,Automatic,Sedan,5,22.4,5.0
+Honda,Nexon,12.59,CNG,Manual,SUV,6,19.9,4.6
+Maruti Suzuki,Ertiga,22.57,Hybrid,Manual,SUV,7,18.3,3.5
+Toyota,Scorpio,16.12,CNG,Automatic,MUV,6,22.1,4.7
+Mahindra,Nexon,13.99,CNG,Automatic,Sedan,7,12.5,3.8
+Honda,City,5.53,Hybrid,Manual,Sedan,5,13.7,3.6
+Mahindra,Creta,16.55,Hybrid,Automatic,Sedan,6,22.2,4.8
+Kia,Seltos,5.15,Petrol,Automatic,SUV,7,17.3,4.4
+Kia,City,21.66,Hybrid,Automatic,Sedan,5,29.7,4.4
+Honda,Nexon,7.5,Diesel,Automatic,MUV,5,13.6,4.3
+Tata,Scorpio,7.44,Diesel,Automatic,Hatchback,6,14.0,4.5
+Kia,Creta,15.13,Diesel,Manual,Hatchback,6,26.0,3.8
