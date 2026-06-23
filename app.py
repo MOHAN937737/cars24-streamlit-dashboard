@@ -17,8 +17,11 @@ st.set_page_config(
 # LOAD DATA
 # --------------------------------------------------
 
-df = pd.read_csv("cars24_data.csv")
-
+try:
+    df = pd.read_csv("cars24_data.csv")
+except FileNotFoundError:
+    st.error("cars24_data.csv not found. Please upload the dataset.")
+    st.stop()
 # --------------------------------------------------
 # TITLE
 # --------------------------------------------------
@@ -208,4 +211,3 @@ with tab5:
 
 cars24_data.csv
 """)
-    exit()
